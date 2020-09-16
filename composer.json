@@ -41,10 +41,10 @@
         "illuminate/console": "^8.0.0",
         "illuminate/database": "^8.0.0",
         "illuminate/support": "^8.0.0",
-        "rinvex/laravel-support": "^4.0.0",
-        "spatie/eloquent-sortable": "^3.7.0",
-        "spatie/laravel-sluggable": "^2.2.0",
-        "spatie/laravel-translatable": "^4.2.0"
+        "rinvex/laravel-support": "^5.0.0",
+        "spatie/eloquent-sortable": "^3.9.0",
+        "spatie/laravel-sluggable": "^2.5.0",
+        "spatie/laravel-translatable": "^4.4.0"
     },
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.27.0",
